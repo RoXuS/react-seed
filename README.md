@@ -1,6 +1,6 @@
 # Reactjs-component-todolist
 
-A simple react seed to show how to create reusable component with karma test
+A simple react seed to show how to create a reusable component with karma tests
 
 ## Install dependencies
     npm install
